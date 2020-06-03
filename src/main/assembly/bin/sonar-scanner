@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #
 # SonarScanner Startup Script for Unix
 #
